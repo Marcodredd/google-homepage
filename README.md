@@ -1,0 +1,1 @@
+This is a practice exercise that seek to recreate google.com homepage
